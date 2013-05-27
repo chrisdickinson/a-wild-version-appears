@@ -17,3 +17,14 @@ version(pkg, function(err, newer_available) {
 })
 
 ```
+
+# API
+
+## version(package_json_contents, ready(err, newer_available)) -> undefined
+
+returns whether or not there's a newer version available or not. if an err is encountered
+in the attempt it'll be passed as `err` to the `ready` callback.
+
+# license
+
+MIT

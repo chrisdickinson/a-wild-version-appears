@@ -1,6 +1,6 @@
 {
   "name": "a-wild-version-appears",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "sometimes versions happen and you want to alert your users",
   "main": "index.js",
   "scripts": {

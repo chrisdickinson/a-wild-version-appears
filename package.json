@@ -1,0 +1,22 @@
+{
+  "name": "a-wild-version-appears",
+  "version": "0.0.0",
+  "description": "sometimes versions happen and you want to alert your users",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/chrisdickinson/a-wild-version-appears.git"
+  },
+  "keywords": [
+    "versions"
+  ],
+  "author": "Chris Dickinson <chris@neversaw.us>",
+  "license": "MIT",
+  "dependencies": {
+    "concat-stream": "~1.0.0",
+    "semver": "~1.1.4"
+  }
+}
